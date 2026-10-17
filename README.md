@@ -1,9 +1,9 @@
 # Nihal_hackathon_projects
 # 🚀 Hackathon Dual-Solution System
 This Project was possible because of my teammates:
- 1)Nihal.N
- 2)Mohammed Raiyan
- 3)Pavan Kumar S
+ 
+ 1)Mohammed Raiyan
+ 2)Pavan Kumar S
 
 > **⚠️ NOTE TO THE JUDGES:** 
 > Our team tackled this hackathon challenge by engineering a modular, dual-solution ecosystem. 
